@@ -1,0 +1,16 @@
+C:\Users\fixer\Desktop\codeboxx\week3\c#\bin\Debug\net5.0\Commercial_Controller.exe
+C:\Users\fixer\Desktop\codeboxx\week3\c#\bin\Debug\net5.0\Commercial_Controller.deps.json
+C:\Users\fixer\Desktop\codeboxx\week3\c#\bin\Debug\net5.0\Commercial_Controller.runtimeconfig.json
+C:\Users\fixer\Desktop\codeboxx\week3\c#\bin\Debug\net5.0\Commercial_Controller.runtimeconfig.dev.json
+C:\Users\fixer\Desktop\codeboxx\week3\c#\bin\Debug\net5.0\Commercial_Controller.dll
+C:\Users\fixer\Desktop\codeboxx\week3\c#\bin\Debug\net5.0\ref\Commercial_Controller.dll
+C:\Users\fixer\Desktop\codeboxx\week3\c#\bin\Debug\net5.0\Commercial_Controller.pdb
+C:\Users\fixer\Desktop\codeboxx\week3\c#\obj\Debug\net5.0\Commercial_Controller.csprojAssemblyReference.cache
+C:\Users\fixer\Desktop\codeboxx\week3\c#\obj\Debug\net5.0\Commercial_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixer\Desktop\codeboxx\week3\c#\obj\Debug\net5.0\Commercial_Controller.AssemblyInfoInputs.cache
+C:\Users\fixer\Desktop\codeboxx\week3\c#\obj\Debug\net5.0\Commercial_Controller.AssemblyInfo.cs
+C:\Users\fixer\Desktop\codeboxx\week3\c#\obj\Debug\net5.0\Commercial_Controller.csproj.CoreCompileInputs.cache
+C:\Users\fixer\Desktop\codeboxx\week3\c#\obj\Debug\net5.0\Commercial_Controller.dll
+C:\Users\fixer\Desktop\codeboxx\week3\c#\obj\Debug\net5.0\ref\Commercial_Controller.dll
+C:\Users\fixer\Desktop\codeboxx\week3\c#\obj\Debug\net5.0\Commercial_Controller.pdb
+C:\Users\fixer\Desktop\codeboxx\week3\c#\obj\Debug\net5.0\Commercial_Controller.genruntimeconfig.cache
